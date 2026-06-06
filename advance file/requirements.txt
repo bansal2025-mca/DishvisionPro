@@ -1,0 +1,9 @@
+# flask
+# groq==0.4.1
+# httpx==0.27.0
+# python-dotenv
+
+flask
+groq
+httpx==0.27.0
+python-dotenv
